@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Polymorphism, Abstraction, Interface\Polymorphism, Abstraction, Interface Practice\PAIPractice\PAIPractice\bin\Debug\netcoreapp3.1\PAIPractice.exe
+C:\Users\User\Desktop\Polymorphism, Abstraction, Interface\Polymorphism, Abstraction, Interface Practice\PAIPractice\PAIPractice\bin\Debug\netcoreapp3.1\PAIPractice.deps.json
+C:\Users\User\Desktop\Polymorphism, Abstraction, Interface\Polymorphism, Abstraction, Interface Practice\PAIPractice\PAIPractice\bin\Debug\netcoreapp3.1\PAIPractice.runtimeconfig.json
+C:\Users\User\Desktop\Polymorphism, Abstraction, Interface\Polymorphism, Abstraction, Interface Practice\PAIPractice\PAIPractice\bin\Debug\netcoreapp3.1\PAIPractice.runtimeconfig.dev.json
+C:\Users\User\Desktop\Polymorphism, Abstraction, Interface\Polymorphism, Abstraction, Interface Practice\PAIPractice\PAIPractice\bin\Debug\netcoreapp3.1\PAIPractice.dll
+C:\Users\User\Desktop\Polymorphism, Abstraction, Interface\Polymorphism, Abstraction, Interface Practice\PAIPractice\PAIPractice\bin\Debug\netcoreapp3.1\PAIPractice.pdb
+C:\Users\User\Desktop\Polymorphism, Abstraction, Interface\Polymorphism, Abstraction, Interface Practice\PAIPractice\PAIPractice\obj\Debug\netcoreapp3.1\PAIPractice.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Polymorphism, Abstraction, Interface\Polymorphism, Abstraction, Interface Practice\PAIPractice\PAIPractice\obj\Debug\netcoreapp3.1\PAIPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Polymorphism, Abstraction, Interface\Polymorphism, Abstraction, Interface Practice\PAIPractice\PAIPractice\obj\Debug\netcoreapp3.1\PAIPractice.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Polymorphism, Abstraction, Interface\Polymorphism, Abstraction, Interface Practice\PAIPractice\PAIPractice\obj\Debug\netcoreapp3.1\PAIPractice.AssemblyInfo.cs
+C:\Users\User\Desktop\Polymorphism, Abstraction, Interface\Polymorphism, Abstraction, Interface Practice\PAIPractice\PAIPractice\obj\Debug\netcoreapp3.1\PAIPractice.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Polymorphism, Abstraction, Interface\Polymorphism, Abstraction, Interface Practice\PAIPractice\PAIPractice\obj\Debug\netcoreapp3.1\PAIPractice.dll
+C:\Users\User\Desktop\Polymorphism, Abstraction, Interface\Polymorphism, Abstraction, Interface Practice\PAIPractice\PAIPractice\obj\Debug\netcoreapp3.1\PAIPractice.pdb
+C:\Users\User\Desktop\Polymorphism, Abstraction, Interface\Polymorphism, Abstraction, Interface Practice\PAIPractice\PAIPractice\obj\Debug\netcoreapp3.1\PAIPractice.genruntimeconfig.cache
